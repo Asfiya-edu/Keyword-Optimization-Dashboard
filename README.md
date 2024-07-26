@@ -35,6 +35,8 @@ The primary goal of this project is to create a dynamic Power BI dashboard that 
 
 ## **Dashboards**
 
+### **Dashboard link:** https://app.powerbi.com/groups/me/reports/14c0887e-99c7-49ed-8268-406dbc8ad26b/4bb83930be30a02ce778?clientSideAuth=0&experience=power-bi
+
 # **Overview**
 
 ![Screenshot 2024-07-26 015044](https://github.com/user-attachments/assets/8a3c3aee-42cf-46d5-bdf5-762385668bc7)
