@@ -3,8 +3,54 @@
 ## Overview
 Welcome to the repository for our comprehensive project focused on keyword analysis using Google Trends and YouTube Ads APIs. This project aims to provide actionable insights into keyword performance by leveraging data from two powerful platforms: Google Trends and YouTube Ads.
 
+---
+
+## Table of Contents
+
+1. [Project Objectives](#project-objectives)
+2. [Dashboards](#dashboards)
+3. [Features](#features)
+4. [Key Sections](#key-sections)
+5. [Power Query Implementation](#power-query-implementation)
+   - [Base Table Creation](#base-table-creation)
+   - [Parameterized API Calls](#parameterized-api-calls)
+   - [Data Expansion and Analysis](#data-expansion-and-analysis)
+   - [Power Query Code](#power-query-code)
+6. [Time Series Visual with Dynamic Slicers in Power BI](#time-series-visual-with-dynamic-slicers-in-power-bi)
+7. [Scope of Keywords Analytics Dashboard](#scope-of-keywords-analytics-dashboard)
+   - [Enhanced Data Integration and Customization](#enhanced-data-integration-and-customization)
+   - [Advanced Analysis and Insights](#advanced-analysis-and-insights)
+   - [Interactive and Real-Time Features](#interactive-and-real-time-features)
+   - [Consolidated Reporting](#consolidated-reporting)
+6. [Future Scope of the Project](#future-scope-of-the-project)
+
+---
+
 ## Project Objectives
 The primary goal of this project is to create a dynamic Power BI dashboard that visualizes and analyzes keyword trends, helping businesses make data-driven decisions for optimizing their digital marketing strategies. By integrating data from Google Trends and YouTube Ads, we provide a robust tool for understanding keyword popularity, rising trends, and effective ad performance.
+
+## **Dashboards**
+
+# **Overview**
+
+![Screenshot 2024-07-26 015044](https://github.com/user-attachments/assets/8a3c3aee-42cf-46d5-bdf5-762385668bc7)
+
+# **Keywords by Date**
+
+![Screenshot 2024-07-26 015231](https://github.com/user-attachments/assets/31d360ae-b67f-4590-a67a-72888c83db08)
+
+# **Real - Time**
+
+![Screenshot 2024-07-26 015259](https://github.com/user-attachments/assets/201730d1-2cec-4b6a-bc5b-35b05956bd91)
+
+# **Rising & Top Keywords**
+
+![Screenshot 2024-07-26 015325](https://github.com/user-attachments/assets/66c81c29-e616-48ed-8a1f-b4a4080ab516)
+
+# **Youtube Relevant Ads**
+
+![Screenshot 2024-07-26 015412](https://github.com/user-attachments/assets/9009fc0b-4ea3-4a78-a4c1-f15dc5bc78c1)
+
 
 ## Features
 
@@ -148,7 +194,54 @@ A time series visual, such as a line chart, displays data trends over time:
 - **Date Axis**: Utilizes the `Date` column to visualize changes and trends over time.
 - **Measure Values**: Plots measures on the values axis to reveal trends, peaks, and troughs in the data.
 
-    
+
+## **Scope of Keywords Analytics Dashboard** 
+
+### Enhanced Data Integration and Customization
+
+1. **Multi-Source Integration**: Power BI allows to combine data from Google Trends with other sources, such as YouTube Ads data, CRM systems, or social media analytics. This integration can provide a more holistic view of marketing landscape and consumer behavior.
+
+2. **Customizable Visualizations**: Power BI offers extensive visualization options and customization capabilities. We can tailor charts, graphs, and dashboards to meet specific business needs or stakeholder preferences, which can make the data more actionable.
+
+### Advanced Analysis and Insights
+
+1. **In-Depth Comparative Analysis**: With Power BI, you can perform advanced comparative analyses, such as benchmarking keyword performance across different time periods, regions, or platforms, and visualizing these comparisons effectively.
+
+2. **Custom Metrics and KPIs**: We can create custom metrics and Key Performance Indicators (KPIs) that align with your business objectives, providing deeper insights into how keywords and ads are impacting your goals.
+
+### Interactive and Real-Time Features
+
+1. **Interactive Dashboards**: Power BI dashboards are interactive, allowing users to drill down into specific data points, filter information, and explore different aspects of the data dynamically.
+
+2. **Real-Time Data Updates**: By connecting directly to Google Trends and YouTube Ads APIs, we can ensure that your dashboard reflects real-time or near-real-time data, enabling timely decision-making.
+
+### Consolidated Reporting
+
+1. **Comprehensive Reports**: You can generate consolidated reports that integrate data from various sources and present it in a unified format, making it easier for stakeholders to understand and act upon the insights.
+
+## Future Scope of the Project
+
+### **Enhanced Data Integration and Customization**
+
+1. **Expansion to Additional Data Sources**:
+   - **Integration with More Platforms**: Future enhancements may include integration with additional data sources such as Google Ads, Bing Ads, or e-commerce platforms, providing an even more comprehensive view of digital marketing efforts.
+   - **API Expansion**: Leveraging more APIs to integrate with other business systems (e.g., customer feedback systems, sales databases) will enhance the ability to cross-reference Google Trends data with other relevant business metrics.
+
+2. **Advanced Customization Options**:
+   - **Enhanced Visualization Features**: Further development could include creating advanced visualizations such as heat maps, advanced scatter plots, or custom charts tailored to specific business needs.
+   - **Personalized Dashboards**: Offering more granular customization options for different user roles or departments to ensure that each stakeholder has access to the most relevant and actionable insights.
+
+### **Advanced Analysis and Insights**
+
+1. **Deeper Comparative Analysis**:
+   - **Cross-Platform Benchmarking**: Future work could focus on benchmarking performance across different digital platforms and channels, including social media and content marketing, to provide a more integrated view of marketing effectiveness.
+   - **Historical Data Analysis**: Enhancements could include more sophisticated analysis of historical data trends to identify long-term patterns and correlations.
+
+2. **Enhanced Metrics and KPIs**:
+   - **Custom Metrics Development**: Developing additional custom metrics and KPIs tailored to evolving business objectives, such as customer engagement scores or ROI on specific marketing activities.
+   - **Predictive Analytics**: Incorporating predictive analytics to forecast future keyword trends and ad performance based on historical data and emerging patterns.
+
+
 
 
 
