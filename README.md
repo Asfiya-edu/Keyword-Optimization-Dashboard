@@ -70,7 +70,7 @@ The primary goal of this project is to create a dynamic Power BI dashboard that 
 
 ## Power Query Implementation
 
-### **1. Base Table Creation**
+### Base Table Creation
 
 In Power Query, we start by creating a base table to hold the raw data extracted from the APIs. This table serves as the foundation for further data processing and analysis. The base table includes essential fields such as:
 - Keyword
@@ -82,7 +82,7 @@ In Power Query, we start by creating a base table to hold the raw data extracted
 
   ![Screenshot 2024-07-26 041816](https://github.com/user-attachments/assets/8914425d-b0ae-4ad4-a3db-cc5cb8571022)
 
-### **2. Parameterized API Calls**
+### Parameterized API Calls
 
 
 ![Screenshot 2024-07-26 041748](https://github.com/user-attachments/assets/4145f64b-0adc-45ff-a199-c32250677113)
@@ -94,7 +94,7 @@ To make the analysis dynamic, parameters are used to adjust API calls. Here's ho
 - **Using Parameters in API Calls**: Incorporate these parameters into the API URL to fetch specific data. For example, you can set parameters for different keywords or time ranges.
 - **Editable Parameters**: Parameters can be edited directly within Power Query or through external configuration, making it easy to refresh data based on updated criteria.
 
-### **3. Data Expansion and Analysis**
+### Data Expansion and Analysis
 
 Once the base table is established, we create additional tables that reference the base table for expanded analysis. This process includes:
 - **Data Expansion**: Adding columns and transforming data to suit analytical needs.
