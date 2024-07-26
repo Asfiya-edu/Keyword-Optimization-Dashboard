@@ -3,6 +3,7 @@
 ## Overview
 Welcome to the repository for our comprehensive project focused on keyword analysis using Google Trends and YouTube Ads APIs. This project aims to provide actionable insights into keyword performance by leveraging data from two powerful platforms: Google Trends and YouTube Ads.
 
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
 ---
 
 ## Table of Contents
@@ -25,9 +26,12 @@ Welcome to the repository for our comprehensive project focused on keyword analy
 6. [Future Scope of the Project](#future-scope-of-the-project)
 
 ---
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
 
 ## Project Objectives
 The primary goal of this project is to create a dynamic Power BI dashboard that visualizes and analyzes keyword trends, helping businesses make data-driven decisions for optimizing their digital marketing strategies. By integrating data from Google Trends and YouTube Ads, we provide a robust tool for understanding keyword popularity, rising trends, and effective ad performance.
+
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
 
 ## **Dashboards**
 
@@ -51,6 +55,7 @@ The primary goal of this project is to create a dynamic Power BI dashboard that 
 
 ![Screenshot 2024-07-26 015412](https://github.com/user-attachments/assets/9009fc0b-4ea3-4a78-a4c1-f15dc5bc78c1)
 
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
 
 ## Features
 
@@ -58,6 +63,8 @@ The primary goal of this project is to create a dynamic Power BI dashboard that 
 - **YouTube Ads Analysis:** Leverage YouTube Ads API to analyze video ad performance, including ad durations and engagement metrics, to optimize advertising strategies.
 - **Interactive Dashboard:** A comprehensive Power BI dashboard that integrates data from both APIs, offering visualizations and analytics to support keyword optimization and strategic planning.
 - **Data-Driven Insights:** Extract meaningful patterns and trends from the data, enabling users to identify opportunities and refine their keyword strategies.
+
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
   
 ## Key Sections
 
@@ -67,6 +74,7 @@ The primary goal of this project is to create a dynamic Power BI dashboard that 
 - **Case Studies & Guesstimates:** Analyzing real-world business problems and proposing strategies to improve keyword performance and advertising effectiveness based on the collected data.
 - **Business Impact:** How the dashboard and keyword analysis can help businesses optimize their marketing strategies and achieve better ROI.
 
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
 
 ## Power Query Implementation
 
@@ -125,6 +133,7 @@ in
     ExpandedTable
 ```
 
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
 
 ## Time Series Visual with Dynamic Slicers in Power BI
 
@@ -166,12 +175,16 @@ Adding columns like `Month_Year`, `Q_Year`, `Quarterly`, and `Year` to the `By_D
 - **`Quarterly`**: Represents the quarter of the year in "QX" format, allowing for quarter-based data filtering.
 - **`Year`**: Provides the year from the date, simplifying annual data filtering and analysis.
 
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
+
 ### 2. **Creating Dynamic Date Parameters**
 
 The creation of a Date Range parameter facilitates dynamic date filtering in reports. This parameter enables:
 
 - **Customizable Date Filters**: Users can adjust the start and end dates to focus on specific periods.
 - **Enhanced Interactivity**: Provides a flexible date range selection for tailored data analysis.
+
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
 
 ### 3. **Adding and Configuring Slicers**
 
@@ -185,6 +198,8 @@ Incorporating slicers for `Year`, `Quarterly`, `Month_Year`, and `DateRange` enh
 - **`Month_Year` Slicer**: Enables filtering by specific months and years, which is beneficial for monthly trend analysis.
 - **`DateRange` Slicer**: Allows users to select a custom date range, providing flexible filtering options.
 
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
+
 ### 4. **Creating the Time Series Visual**
 
 ![Screenshot 2024-07-26 043950](https://github.com/user-attachments/assets/6aee3ea7-a4f6-40f6-a57d-9a46e7ea2c63)
@@ -194,6 +209,7 @@ A time series visual, such as a line chart, displays data trends over time:
 - **Date Axis**: Utilizes the `Date` column to visualize changes and trends over time.
 - **Measure Values**: Plots measures on the values axis to reveal trends, peaks, and troughs in the data.
 
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
 
 ## **Scope of Keywords Analytics Dashboard** 
 
@@ -218,6 +234,8 @@ A time series visual, such as a line chart, displays data trends over time:
 ### Consolidated Reporting
 
 1. **Comprehensive Reports**: You can generate consolidated reports that integrate data from various sources and present it in a unified format, making it easier for stakeholders to understand and act upon the insights.
+
+![rainbowline](https://github.com/Asfiya-edu/Travel-Hospitality-Analysis-Dashboard-Excel/assets/135417984/7b2fe4d0-348c-4094-96e8-d12a40fffb4c)
 
 ## Future Scope of the Project
 
