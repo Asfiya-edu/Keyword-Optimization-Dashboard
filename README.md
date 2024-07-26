@@ -1,4 +1,4 @@
-# Comprehensive Project: Analyzing Keywords Using Google Trends & YouTube Ads APIs
+# Analyzing Keywords Using Google Trends & YouTube Ads APIs
 
 ## Overview
 Welcome to the repository for our comprehensive project focused on keyword analysis using Google Trends and YouTube Ads APIs. This project aims to provide actionable insights into keyword performance by leveraging data from two powerful platforms: Google Trends and YouTube Ads.
